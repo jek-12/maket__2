@@ -192,8 +192,7 @@ span:hover {
     height: 90%;
     max-width: 980px;
     padding: 0 10px 0;
-    margin: 0 auto;
-    margin-top: 22px;
+    margin: 22px auto 0 auto ;
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
@@ -203,7 +202,6 @@ span:hover {
     font-family: 'pt_sansregular', sans-serif;
     font-size: 14px;
     line-height: 22px;
-    font-weight: 400;
     letter-spacing: 0.025em;
     color: #ffffff;
 }
@@ -211,7 +209,6 @@ span:hover {
     font-family: 'pt_sansregular', sans-serif;
     font-size: 14px;
     line-height: 22px;
-    font-weight: 400;
     letter-spacing: 0.025em;
     color: #ffffff;
 }
@@ -235,5 +232,4 @@ span:hover {
     font-weight: 400;
     letter-spacing: 0.025em;
     color: #ffffff;
-
 }
